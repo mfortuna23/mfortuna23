@@ -11,8 +11,7 @@ I'm a 26-year-old aspiring developer who started programming in 2023.
 
 ## 🚀 My Projects
 
-Right now im working on CPP projects [GitHub](https://github.com/mfortuna23/cpp) 
-Here's a list of some of the projects I've completed so far, along with the scores I received:
+Right now I'm working on CPP projects [GitHub](https://github.com/mfortuna23/cpp) .
 
 ### 📊 42 Project Scores
 
