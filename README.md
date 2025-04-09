@@ -27,8 +27,6 @@ Here's a list of some of the projects I've completed so far, along with the scor
 | 📖 libft     | Re-implementation of libc functions  | 🟢 125%     | [GitHub](https://github.com/mfortuna23/mylibft)     |
 
 
-> _(Update the links and scores to match your actual results!)_
-
 ## 📫 Let's Connect!
 Feel free to check out my projects or reach out if you'd like to collaborate or chat:
 - 🌐 [My GitHub](https://github.com/mfortuna23)
