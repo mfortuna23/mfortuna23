@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Maria!
 
-I'm a 26-year-old aspiring developer who started programming in 2023.
+I'm a 26-year-old software developer who started programming in 2023.
 
 ## 💻 About Me
 - 💡 Passionate about learning new technologies
@@ -9,7 +9,7 @@ I'm a 26-year-old aspiring developer who started programming in 2023.
 - 🐾 Cats
 - 🧶 Crochet enthusiast
 
-## 🚀 My Projects
+## 🚀 My Current Projects
 
 Right now I'm working on CPP projects [GitHub](https://github.com/mfortuna23/cpp) .
 
