@@ -6,7 +6,7 @@ I'm a 26-year-old aspiring developer who started programming in 2023.
 - 💡 Passionate about learning new technologies
 - 👩‍💻 Studying at 42 School
 - 🧠 Big fan of logic puzzles and clean code
-- 🐾 Cat lover
+- 🐾 Cats
 - 🧶 Crochet enthusiast
 
 ## 🚀 My Projects
