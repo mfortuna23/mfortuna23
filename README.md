@@ -37,6 +37,6 @@ Most of these projects were developed as part of the 42 curriculum, and they cov
 🔍 **Open to Roles**: Junior C/C++ Developer | Embedded Systems | Backend
 
 Feel free to check out my projects or reach out if you'd like to collaborate or chat:
-- 🌐 [LinkedIn]([https://www.linkedin.com/in/mariafortunatom/])
-- - 📫  mariafortunatom@gmail.com
+- 🌐 [LinkedIn](https://www.linkedin.com/in/mariafortunatom/)
+- 📫  mariafortunatom@gmail.com
  
