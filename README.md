@@ -17,7 +17,7 @@ I'm a software developer who started programming in 2023.
 
 Right now I'm working on CPP projects [CPP Modules](https://github.com/mfortuna23/cpp) and ft_irc.
 
-### 📊 42 Project Scores
+### 📊 42 Project
 
 Most of these projects were developed as part of the 42 curriculum, and they cover a wide range of low-level programming concepts — from threading and memory management to graphics and shell design. All built in pure C and tested on Linux/macOS.
 
