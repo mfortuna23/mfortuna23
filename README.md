@@ -8,7 +8,9 @@ I'm a 26-year-old software developer who started programming in 2023.
 - 🧠 Big fan of logic puzzles and clean code
 - 🐾 Cats
 - 🧶 Crochet enthusiast
-![mfortuna23's Stats](https://github-readme-stats.vercel.app/api?username=mfortuna23&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
+
+  
+//![mfortuna23's Stats](https://github-readme-stats.vercel.app/api?username=mfortuna23&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
 ![mfortuna23's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=mfortuna23&hide_title=1&layout=compact&theme=tokyonight)
 
 
