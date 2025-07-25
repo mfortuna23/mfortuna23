@@ -32,10 +32,10 @@ Most of these projects were developed as part of the 42 curriculum, and they cov
 | 📖 `libft`     | A custom implementation of the C standard library. Built essential functions from scratch like `ft_atoi`, `ft_split`, and linked list management tools. Foundation for all other projects. | [MyLibft](https://github.com/mfortuna23/mylibft) |
 
 
+- 📫  mariafortunatom@gmail.com
+🔍 **Open to Roles**: Junior C/C++ Developer | Embedded Systems | Backend 
 
 ## 📫 Let's Connect!
 Feel free to check out my projects or reach out if you'd like to collaborate or chat:
 - 🌐 [LinkedIn]([https://github.com/mfortuna23](https://www.linkedin.com/in/mariafortunatom/))
-- @  mariafortunatom@gmail.com
-
----
+ 
