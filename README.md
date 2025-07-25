@@ -1,13 +1,14 @@
 # 👋 Hi there, I'm Maria!
 
-I'm a 26-year-old software developer who started programming in 2023.
+I'm a software developer who started programming in 2023.
 
 ## 💻 About Me
-- 💡 Passionate about learning new technologies
 - 👩‍💻 Studying at 42 School
-- 🧠 Big fan of logic puzzles and clean code
-- 🐾 Cats
-- 🧶 Crochet enthusiast
+- 💡 Passionate about learning new technologies
+- 🧠 Big fan of problem solving and clean code
+- 🎲 Board Games
+- 🛼 Roller Skating
+
 
 ![Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=mfortuna23&hide_title=1&layout=compact&theme=tokyonight)
 
@@ -26,7 +27,7 @@ Most of these projects were developed as part of the 42 curriculum, and they cov
 | 🐚 `minishell` | A custom UNIX shell written in C. Supports command parsing, pipes, redirections, environment variables, and built-in commands like `cd`, `echo`, and `exit`. Great hands-on with process management and parsing. | [Minishell](https://github.com/mfortuna23/minishell) |
 | 🍴 `philosophers` | A multithreading project based on the dining philosophers problem. Simulates deadlock-free behavior using threads and mutexes. Explores concurrency, race conditions, and synchronization. | [philosophers](https://github.com/mfortuna23/philosophers) |
 | 🎮 `so_long`   | A 2D game where the player collects items and exits the map. Built with a minimalist graphics library. Introduced basic game design, event handling, and graphical rendering in C. | [so_long](https://github.com/mfortuna23/so_long) |
-| 🔁 `pipex`     | A UNIX pipe emulator that reproduces shell behavior like `cmd < file *pipe* cmd > file`. Focused on file descriptors, execve, and piping between processes. | [Pipex](https://github.com/mfortuna23/pipex) |
+| ⚙️ `pipex`     | A UNIX pipe emulator that reproduces shell behavior like `cmd < file *pipe* cmd > file`. Focused on file descriptors, execve, and piping between processes. | [Pipex](https://github.com/mfortuna23/pipex) |
 | 🔁 `push_swap` | A sorting algorithm visualizer using two stacks and a limited instruction set. Implemented various sorting strategies and optimized for the fewest moves. | [Push_Swap](https://github.com/mfortuna23/push_swap) |
 | 📖 `libft`     | A custom implementation of the C standard library. Built essential functions from scratch like `ft_atoi`, `ft_split`, and linked list management tools. Foundation for all other projects. | [MyLibft](https://github.com/mfortuna23/mylibft) |
 
@@ -34,6 +35,7 @@ Most of these projects were developed as part of the 42 curriculum, and they cov
 
 ## 📫 Let's Connect!
 Feel free to check out my projects or reach out if you'd like to collaborate or chat:
-- 🌐 [My GitHub](https://github.com/mfortuna23)
+- 🌐 [LinkedIn]([https://github.com/mfortuna23](https://www.linkedin.com/in/mariafortunatom/))
+- @  mariafortunatom@gmail.com
 
 ---
