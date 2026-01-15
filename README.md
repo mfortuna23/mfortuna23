@@ -23,6 +23,8 @@ Most of these projects were developed as part of the 42 curriculum, and they cov
 
 | 🧠 Project     | 📝 Description                                                                                       | 🔗 Link |
 |----------------|------------------------------------------------------------------------------------------------------|---------|
+| `ft_irc`       |                                                                                                      |[ft_irc](https://github.com/mfortuna23/ft_irc) |
+| `CPP modules`  |                                                                                                      |[CPP Modules](https://github.com/mfortuna23/cpp) |
 | 🕹️ `cub3D`     | A 3D raycasting engine written in C, inspired by *Wolfenstein 3D*. Built using a 2D map, it renders a 3D view with player movement, wall collisions, textures, and a minimap. Runs on both Linux and macOS. | [Cub3d](https://github.com/mfortuna23/cub3d) |
 | 🐚 `minishell` | A custom UNIX shell written in C. Supports command parsing, pipes, redirections, environment variables, and built-in commands like `cd`, `echo`, and `exit`. Great hands-on with process management and parsing. | [Minishell](https://github.com/mfortuna23/minishell) |
 | 🍴 `philosophers` | A multithreading project based on the dining philosophers problem. Simulates deadlock-free behavior using threads and mutexes. Explores concurrency, race conditions, and synchronization. | [philosophers](https://github.com/mfortuna23/philosophers) |
