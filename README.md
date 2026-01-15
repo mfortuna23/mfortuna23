@@ -10,8 +10,6 @@ I'm a software developer who started programming in 2023.
 - 🛼 Roller Skating
 
 
-![Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=mfortuna23&hide_title=1&layout=compact&theme=tokyonight)
-
 
 ## 🚀 My Current Projects
 
